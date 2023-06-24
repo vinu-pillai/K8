@@ -1,4 +1,4 @@
-Here are some essential Kubernetes networking commands that can serve as a cheat sheet for managing and troubleshooting networking in Kubernetes:
+**Here are some essential Kubernetes networking commands that can serve as a cheat sheet for managing and troubleshooting networking in Kubernetes:**
 
 Get information about pods and their IP addresses:
 
